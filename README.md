@@ -1,0 +1,2 @@
+# XMLify
+outil de conversion d'un fichier de métadonnées (CSV) en XML. Pour cela, on utilise un fichier de mapping qui fait correspondre à ch&amp;que colonne de métadonnées    une arborescence XML. cette "arborescence" est assemblée à un arbre vide, un fichier XML modèle.    Chaque ligne de données est convertie en un fichier XML séparé dont le nom est construit à partir  de la donnée trouvée dans une colonne spécifiée par l'utilisateur.
