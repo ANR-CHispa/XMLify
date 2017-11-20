@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--teiHeader.xml
+Plusieurs commentaires,
+sur plusieurs lignes
+-->
+<?xml-model href="teiHeader.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<!--TEI xmlns="http://www.tei-c.org/ns/1.0"-->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt></publicationStmt>
+	 <respStmt></respStmt>
+      <sourceDesc></sourceDesc>
+    </fileDesc>
+    <encodingDesc></encodingDesc>
+    <profileDesc></profileDesc>
+    <revisionDesc></revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+    </body>
+  </text>
+</TEI>
